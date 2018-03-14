@@ -12,6 +12,6 @@
 ##界面展示  
 ![image](https://github.com/llixian/test/blob/master/images/2.PNG)  
 ![image](https://github.com/llixian/test/blob/master/images/3.PNG)  
-![image](https://github.com/llixian/test/blob/master/images/4.PNG)    
+![image](https://github.com/llixian/test/blob/master/images/4.PNG)      
 ##程序流程图  
 ![image](https://github.com/llixian/test/blob/master/images/1.png) 
